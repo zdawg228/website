@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Artwork - Index</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on My Artwork - Index</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>John Doe</copyright>
+    <lastBuildDate>Fri, 03 May 2024 11:49:15 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artwork2</title>
+      <link>//localhost:1313/artwork2/</link>
+      <pubDate>Fri, 03 May 2024 11:49:15 -0500</pubDate>
+      <guid>//localhost:1313/artwork2/</guid>
+      <description>Test 2&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title>Artwork1</title>
+      <link>//localhost:1313/artwork1/</link>
+      <pubDate>Fri, 03 May 2024 11:46:51 -0500</pubDate>
+      <guid>//localhost:1313/artwork1/</guid>
+      <description>Test 1&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+  </channel>
+</rss>
